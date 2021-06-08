@@ -119,5 +119,5 @@ VSCode는 멀티 스레드 방식으로 처리할 수 있다.
 <br>
 
 # Refferences
-- https://gmlwjd9405.github.io/2018/09/14/process-vs-thread.html
-- https://www.youtube.com/watch?v=1grtWKqTn50
+- [[OS] 프로세스와 스레드의 차이 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/09/14/process-vs-thread.html) 
+- [10분 테코톡 🌷 코다의 Process vs Thread](https://www.youtube.com/watch?v=1grtWKqTn50)
