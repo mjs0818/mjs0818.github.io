@@ -155,3 +155,10 @@ async는 자바스크립트의 파싱과 실행은 파일이 로드된 직후 �
 
 ### **defer**
 defer는 자바스크립트 파일을 로드한 후 HTML 파싱이 완료된 후에 파싱과 실행이 진행된다. 따라서 DOM 생성이 완료된 이후 실행되어야 할 자바스크립트에 유용하다.
+
+# Reference
+- [객체 모델 생성](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model?hl=ko)
+
+- [렌더링 트리 생성, 레이아웃 및 페인트](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction?hl=ko)
+
+- 모던 자바스크립트 Deep Dive
